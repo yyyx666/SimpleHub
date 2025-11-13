@@ -6,7 +6,8 @@
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/K93Z2G?referralCode=jae233)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jwy87/SimpleHub)
+[![GitHub Repo stars](https://img.shields.io/github/stars/jwy87/SimpleHub)](https://img.shields.io/github/stars/jwy87/SimpleHub
+)
 ![GitHub forks](https://img.shields.io/github/forks/jwy87/SimpleHub)
 ![GitHub License](https://img.shields.io/github/license/jwy87/SimpleHub)
 
