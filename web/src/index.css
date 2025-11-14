@@ -154,6 +154,7 @@ body {
 .ant-modal {
   border-radius: var(--radius-lg);
   overflow: hidden;
+  opacity: 1;
 }
 
 .ant-modal-header {
